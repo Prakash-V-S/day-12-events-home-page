@@ -43,15 +43,16 @@
 <h2 align="left">Screen Shoots</h2>
 
 ###
-<p>600px Responsive</p>
+<p>600px , 1200px and 1920px Responsive</p>
+<img align="left" src="https://github.com/Prakash-V-S/color-Swapper/assets/141955456/02a69064-4ccf-4257-9014-b92f16fdddec"  />
 
 <img align="left" src="https://github.com/Prakash-V-S/day-12-events-home-page/assets/141955456/541ed41d-8943-4149-ac22-567e2add2899"  />
 
-<p>1200px Responsive</p>
+
 
 <img align="left" src="https://github.com/Prakash-V-S/color-Swapper/assets/141955456/6f3590a9-b8c7-4c93-8efb-a5c84d574809"  />
 
-<p>1920px Responsive</p>
+
 
 <img align="left" src="https://github.com/Prakash-V-S/color-Swapper/assets/141955456/04195627-fb56-4bc8-b0ba-d4cad41053a3"  />
 

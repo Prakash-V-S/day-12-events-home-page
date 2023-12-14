@@ -6,6 +6,10 @@
 
 ###
 
+< p align="1eft">Demo : https://day-12-events-home-page.netlify.app</p> >
+
+###
+
 <h2 align="left">About</h2>
 
 ###

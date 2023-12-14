@@ -45,5 +45,6 @@
 ###
 
 <img align="left" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+![image](https://github.com/Prakash-V-S/day-12-events-home-page/assets/141955456/541ed41d-8943-4149-ac22-567e2add2899)
 
 ###
